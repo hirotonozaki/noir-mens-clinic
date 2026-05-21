@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/28123044/README.md)
 # NOIR MEN'S CLINIC — コーポレートサイト（WordPressオリジナルテーマ）
 
 男性専門の医療アンチエイジング・メディカルエステティッククリニック
@@ -204,9 +205,13 @@ wp-content/themes/noir-clinic/
 
 ## スクリーンショット
 
-![PC表示モックアップ](assets/images/preview-mockup.png)
+![PC表示](assets/images/preview-mockup.png)
 
-> PC・スマートフォン両デバイスでの表示イメージ
+> PC表示のモックアップ
+
+![スマホ表示](assets/images/preview-mobile.png)
+
+> スマートフォン表示のモックアップ
 
 ---
 
